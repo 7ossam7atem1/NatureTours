@@ -18,7 +18,6 @@ This project is a beautiful, fully responsive web application for booking nature
 - **Backend**: Node.js, Express.js for server-side logic and API handling.
 - **Database**: MongoDB for storing user and tour information.
 - **Authentication**: JSON Web Tokens (JWT) for secure user authentication.
-- **Hosting**: Deployed on Netlify for fast and reliable hosting.
 
 ## Installation
 
